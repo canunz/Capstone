@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-06",
+  "files": [
+    {
+      "path": "01_Evidencias_Documentacion/docs/01_Proyecto/Descripcion_Proyecto.md",
+      "bytes": 1773,
+      "sha256": "c94205edacb04a9b530b384801e09367b7e9d0bf712b0da9e35003373f950806"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/01_Proyecto/Metodologia.md",
+      "bytes": 1575,
+      "sha256": "ca62375d4a667ef34590ea275a6a15bf8c286530edf30878a35c44f091be848b"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/01_Proyecto/Objetivos_Alcance.md",
+      "bytes": 1498,
+      "sha256": "c6282ae5b99dae72799c6cd66affd026cd3f97befcf8e46fc171238141d5bca2"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/02_Requisitos/Casos_Uso.md",
+      "bytes": 3174,
+      "sha256": "18aaadc44611a7d268e9b7f309eaf96b02ed98340053dfe727f22fd991d2a6ed"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/02_Requisitos/Historias_Usuario.md",
+      "bytes": 2569,
+      "sha256": "3baa027aa1064e71b1c6900453d6afb62413e9f74e2425ff20d1d1aa922e3afa"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/02_Requisitos/Requisitos_Funcionales.md",
+      "bytes": 4740,
+      "sha256": "f4357749659d65ff7244dadaee05af97074ee253071423a9cdadf17fd7fc5236"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/02_Requisitos/Requisitos_No_Funcionales.md",
+      "bytes": 2050,
+      "sha256": "1d0f4ae600ec319514a850618b788e344e9ffd4dd80ec9403ccdfebc47bca363"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/03_Arquitectura/Arquitectura_Backend.md",
+      "bytes": 2754,
+      "sha256": "4182cbb771e6ce51714c87bae1fb898db5b81fc816dddf6bd595e163dcc3d12c"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/03_Arquitectura/Arquitectura_Frontend.md",
+      "bytes": 1981,
+      "sha256": "e816a86a9c872a7a6fbddcbd46503468b867b7198c85fc4495151f3b8bbbea9d"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/03_Arquitectura/Arquitectura_General.md",
+      "bytes": 1961,
+      "sha256": "957128ddfe51ad983f41f19660c3991dc05a2d0ff6019dbf10ff131a8831c99d"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/05_API/Autenticacion.md",
+      "bytes": 2072,
+      "sha256": "4aa80ffbae389b971e491389bc79e89393fbb4803b76ba7229472615c5292eaf"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/05_API/Contratos_DTO.md",
+      "bytes": 29904,
+      "sha256": "5fe4eecdd2e2bf45b0b26b6b75ca48de855c6a2af7d620b6ee3e0138ccd89ea7"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/05_API/Endpoints.md",
+      "bytes": 33823,
+      "sha256": "6e7576f9b8a7da54a8ce2f08c4d70bbd0b27d9d556d0b7e42529bbff326b1d04"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/05_API/Errores_HTTP.md",
+      "bytes": 1963,
+      "sha256": "ba64be8739af2eb10f1e7b4edc7f7a270f322ed7010462f5fd540420660e7a5a"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/06_Seguridad/Arquitectura_Seguridad.md",
+      "bytes": 1908,
+      "sha256": "670bb7395e2e9d68874c01bdea8afa30b1257133a1e5fa1f8b795a00a45e8548"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/06_Seguridad/Controles_Seguridad.md",
+      "bytes": 2560,
+      "sha256": "b88b8c495346f90bae3dfad472f74d34e0b3731f0cd068be667efa08cde32138"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/07_Pruebas/Estrategia_Pruebas.md",
+      "bytes": 2010,
+      "sha256": "b5407d2a0694ca3f3d0cdd41f8080036074d03c85fadd15381833976561bb483"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/07_Pruebas/Matriz_Trazabilidad.md",
+      "bytes": 593,
+      "sha256": "1ca543964c925e2572d14d42caa9f94de689efd83c1aad627ba39728838d9a8b"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/07_Pruebas/Resultados_Pruebas.md",
+      "bytes": 10703,
+      "sha256": "085ddd633361c3b493ffa196e799966253236ad90bfad9b11409956a131bb582"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/08_Despliegue/Despliegue_STAGING.md",
+      "bytes": 2144,
+      "sha256": "7c4a789bae74f45a52b2d98591942d2ec86d9cb36a0184dc61ead8243690b36b"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/08_Despliegue/Instalacion_Local.md",
+      "bytes": 3102,
+      "sha256": "a86b453557f435923480fb8bc5255e20e23f032f46fd2b556ede19e785bb2482"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/08_Despliegue/Variables_Entorno.md",
+      "bytes": 2514,
+      "sha256": "b0c2b431012379ad70ec9505ba0799b6f1da5e2b62d0c47441ff9b8c0d9b8413"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/09_Manuales/Manual_Tecnico.md",
+      "bytes": 3040,
+      "sha256": "273e713a325fc928fb81b48d25a8558bdbf0f45e15915aadd614d5cfee778de7"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/09_Manuales/Manual_Usuario.md",
+      "bytes": 4517,
+      "sha256": "c6ca417759f53870983cc6d5061ea6e11eb162ad46b146aaf51baf72f6dcc1a3"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/auditoria/MATRIZ_TRAZABILIDAD.md",
+      "bytes": 7237,
+      "sha256": "3004e67a109f6c520702565e01f4e7db2433386d3429cef3f71a3381bc3b0fb8"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/auditoria/REFERENCIAS_HISTORICAS.md",
+      "bytes": 4163,
+      "sha256": "62e95b2bbe253138e4279b673a87ed10503d97bb1f81339f4e419658f994e64a"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/auditoria/REPORTE_FINAL_DOCUMENTACION.md",
+      "bytes": 11438,
+      "sha256": "18930bcd7634f10589e3f2e7be58be2b3a3fa94bf1ef66346f9a45c833693f20"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/docs/README.md",
+      "bytes": 3901,
+      "sha256": "05234751dfd7380c681b790e472a49fcb6f92f8684d6b7d51899764ab0f6b33e"
+    },
+    {
+      "path": "01_Evidencias_Documentacion/README.md",
+      "bytes": 663,
+      "sha256": "dff1b58285e84cf73ae240c14c54cccb2ca972a2748f38500af66e23ee5c923f"
+    },
+    {
+      "path": "02_Evidencias_Aplicacion/MANIFIESTO_FUENTES.json",
+      "bytes": 160389,
+      "sha256": "158c39c06f64e16dbe699a86a100b89fae683f6f6ddb99b233201d156470f8eb"
+    },
+    {
+      "path": "02_Evidencias_Aplicacion/README.md",
+      "bytes": 828,
+      "sha256": "d5dd623ad59bebcb805d6b3ef5711423f6d8e1a590eadf3b65459e42750f89ab"
+    },
+    {
+      "path": "02_Evidencias_Aplicacion/RESUMEN_PRUEBAS.json",
+      "bytes": 40980,
+      "sha256": "4e570ca5e8cb587ea8395c6c2f031464e065eb9a4a2f518a6e8d5e9b52c292d0"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/Diagramas/DimaBug_Modelo_Relacional_v2.drawio",
+      "bytes": 126695,
+      "sha256": "89eebb5f1cefc04bfad09f7606c3a0d0adc51c851b944088bf44cff8b8b4dfbc"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/Diagramas/DimaBug_Modelo_Relacional_v2.png",
+      "bytes": 332781,
+      "sha256": "74629246f8e53fae9d964f5e8c9640e3184fb8bb88d7652eb6702c963eb57de6"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/Diagramas/DimaBug_Modelo_Relacional_v2.svg",
+      "bytes": 15160,
+      "sha256": "416cd6e3317480a7e2d47e0f9982a2d2436d98b91ebc2d6d60b28d4b4d820e51"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/Diagramas/README.md",
+      "bytes": 1017,
+      "sha256": "df74172b17d791af7183d9a0afbe06b95da83d68ff644b5e4040dfc64bbf2042"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/docs/04_Base_Datos/Diccionario_Datos.md",
+      "bytes": 32483,
+      "sha256": "b47b2725592a70a3a9693d5e2d459364c501b226eb3ac46f69eeb76c80d416bd"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/docs/04_Base_Datos/Migraciones.md",
+      "bytes": 2129,
+      "sha256": "ac203a18ae767018aeed61c4a99ab33999241cdccc4534028227e84a041a5b28"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/docs/04_Base_Datos/Modelo_Relacional.md",
+      "bytes": 5986,
+      "sha256": "a770d79fd307745ba06a3574469b5594e1c82ec80072ea643bb7fc74b7d38174"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/README.md",
+      "bytes": 780,
+      "sha256": "9cd01f8f9cf37df0822db8365d887d8e443dc235f4d119a2687491345a1b843b"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/SQL/V20260925_01__agregar_estado_eliminado_conocimiento.sql",
+      "bytes": 140,
+      "sha256": "085e1633c93bdf49f364dd2945d5b8b7bf546beee64178d5ae317ad1c5b4bbe5"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/SQL/V20261013_01__ampliar_solucion.sql",
+      "bytes": 421,
+      "sha256": "d44b06e9bc5a67e33b3a7812d93d834c67170ea4581796d062829d57fae12a8c"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/SQL/V20261014_01__organizacion_persistente.sql",
+      "bytes": 906,
+      "sha256": "71acd27a58e2de8bbd2d7723cc0eadf6a996e940e860a622541e19bef7665f48"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/SQL/V20261017_01__modulo_tickets.sql",
+      "bytes": 3735,
+      "sha256": "65d06c7db3a56be10410a402413a9ad946f6c6b2237a897281bdb44c1a5240da"
+    },
+    {
+      "path": "03_Evidencias_Base_Datos/SQL/V20261017_02__tickets_adjuntos_y_nivel_etiqueta.sql",
+      "bytes": 1310,
+      "sha256": "9aa9f9e55fa42126a63f07f78146bb9da1d23844eabe67e95260f1e42b5733a8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1564,
+      "sha256": "ee73549b0fbd4bf484489b0664b8c14e5b9f7dc781153e5be4046ecf07ff2447"
+    }
+  ],
+  "scope": "Documentación y evidencia local, sin certificación de servidor ni datos personales"
+}
